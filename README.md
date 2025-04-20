@@ -1,4 +1,4 @@
-# Arduino-Projects-Made-in-Tinkercad
+# Arduino Projects
 Arduino Projects Made in Tinkercad
 
 
