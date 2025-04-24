@@ -7,7 +7,7 @@ to find the simple or advanced projects they are looking for.
 These levels include the following:
 
 
-🔸Easy = ⚪
+🔸Easy  = ⚪
 
 🔸Medium = 🔵
 
