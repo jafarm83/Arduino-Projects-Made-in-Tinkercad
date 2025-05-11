@@ -38,6 +38,6 @@ Turning on Leds with Dip switch ⚪  https://www.tinkercad.com/things/jnBzZn8xNJ
 
 
 
-4- Lamp with fan ( 🔵 ) "HardWare+SoftWare"  https://www.tinkercad.com/things/1FNC72Sc0rj/editel?returnTo=%2Fdashboard&sharecode=_mrhVIDnFrZvS1a4hOfQWcwv9hya--yFm2WRqPLjQOw
+Portatil Refrigerator ( 🔵 ) "HardWare+SoftWare"  https://www.tinkercad.com/things/1FNC72Sc0rj/editel?returnTo=%2Fdashboard&sharecode=_mrhVIDnFrZvS1a4hOfQWcwv9hya--yFm2WRqPLjQOw
 
 
