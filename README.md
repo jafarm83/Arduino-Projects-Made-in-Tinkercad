@@ -37,3 +37,7 @@ Pass or Pass  ⚪       https://www.tinkercad.com/things/bF7CmMgSWRG/editel?shar
 Turning on Leds with Dip switch ⚪  https://www.tinkercad.com/things/jnBzZn8xNJM/editel?sharecode=9eadcRrMfcnLCBKRvwNk45qnkf5xLGZGOo-G-Ksvk_4
 
 
+
+4- Lamp with fan ( 🔵 ) "HardWare+SoftWare"  https://www.tinkercad.com/things/1FNC72Sc0rj/editel?returnTo=%2Fdashboard&sharecode=_mrhVIDnFrZvS1a4hOfQWcwv9hya--yFm2WRqPLjQOw
+
+
